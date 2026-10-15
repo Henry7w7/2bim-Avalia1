@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: Henry Augusto Pereira Pupo
+RA: 2026107959
+URL: /https://2bim-avalia1-4f9.pages.dev/
